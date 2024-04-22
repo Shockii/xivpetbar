@@ -1,0 +1,1 @@
+Updated the xivpetbar as it wasn't working with xivparty/xivbar. It appears that since it does a recursive lookup through folders, that the naming convention caused an issue for it when making calls for additional files.
